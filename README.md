@@ -84,7 +84,7 @@ AI-Diabetes-Risk-Population-Intelligence/
 
 ## How to Use
 1. Clone or download this repository.
-2. Install the required Python packages used by the source scripts.
+2.Install the required Python packages using `pip install -r requirements.txt`.
 3. Obtain the dataset from its original source and place the files in the expected local data folders.
 4. Configure MySQL locally and use the SQL scripts for data validation.
 5. Open the Power BI and Tableau files using their respective desktop applications.
