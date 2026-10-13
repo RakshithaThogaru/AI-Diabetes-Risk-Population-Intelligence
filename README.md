@@ -48,6 +48,11 @@ These results reflect the current model evaluation. The model is for educational
 - MySQL raw and processed data validation scripts
 - Power BI and Tableau dashboard files
 - Visual reports and analytical charts
+- ## Dashboard Previews
+
+### Power BI Dashboard
+
+### Tableau Dashboard
 
 ## Repository Structure
 ```text
