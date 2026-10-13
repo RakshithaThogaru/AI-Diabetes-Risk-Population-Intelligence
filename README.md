@@ -51,6 +51,11 @@ These results reflect the current model evaluation. The model is for educational
  ## Dashboard Previews
 
 ### Power BI Dashboard
+-[Power BI Dashboard 1](outputs/dashboards/powerbi/Screenshot%20(110).png)
+
+-[Power BI Dashboard 2](outputs/dashboards/powerbi/Screenshot%20(111).png)
+
+-[Open Power BI Dashboard File (.pbix)](outputs/dashboards/powerbi/incomplte%20dasboard.pbix)
 
 ### Tableau Dashboard
 
