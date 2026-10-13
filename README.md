@@ -48,20 +48,22 @@ These results reflect the current model evaluation. The model is for educational
 - MySQL raw and processed data validation scripts
 - Power BI and Tableau dashboard files
 - Visual reports and analytical charts
- ## Dashboard Previews
+ 
+## Dashboard Previews
 
 ### Power BI Dashboard
--[Power BI Dashboard 1](outputs/dashboards/powerbi/Screenshot%20(110).png)
 
--[Power BI Dashboard 2](outputs/dashboards/powerbi/Screenshot%20(111).png)
+![Power BI Dashboard 1](outputs/dashboards/powerbi/Screenshot%20%28110%29.png)
 
--[Open Power BI Dashboard File (.pbix)](outputs/dashboards/powerbi/incomplte%20dasboard.pbix)
+![Power BI Dashboard 2](outputs/dashboards/powerbi/Screenshot%20%28111%29.png)
+
+[Open Power BI Dashboard File (.pbix)](outputs/dashboards/powerbi/incomplte%20dasboard.pbix)
 
 ### Tableau Dashboard
 
--[Tableau Dashboard 1](outputs/dashboards/tableau/Screenshot%20(112).png)
+![Tableau Dashboard 1](outputs/dashboards/tableau/Screenshot%20%28112%29.png)
 
--[Tableau Dashboard 2](outputs/dashboards/tableau/Screenshot%20(113).png)
+![Tableau Dashboard 2](outputs/dashboards/tableau/Screenshot%20%28113%29.png)
 
 
 ## Repository Structure
