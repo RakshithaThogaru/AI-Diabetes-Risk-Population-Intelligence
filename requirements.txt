@@ -1,0 +1,8 @@
+pandas
+numpy
+joblib
+scikit-learn
+matplotlib
+openpyxl
+ucimlrepo
+mysql-connector-python
