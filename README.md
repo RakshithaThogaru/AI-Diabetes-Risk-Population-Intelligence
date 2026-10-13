@@ -83,11 +83,14 @@ AI-Diabetes-Risk-Population-Intelligence/
 ```
 
 ## How to Use
+
 1. Clone or download this repository.
-2.Install the required Python packages using 'pip install -r requirements.txt'.
+2. Install the required Python packages using `pip install -r requirements.txt`.
 3. Obtain the dataset from its original source and place the files in the expected local data folders.
 4. Configure MySQL locally and use the SQL scripts for data validation.
 5. Open the Power BI and Tableau files using their respective desktop applications.
+
+**Dataset Source:** [UCI Machine Learning Repository — CDC Diabetes Health Indicators](https://doi.org/10.24432/C53919)
 
 Dataset source: [UCI Machine Learning Repository — CDC Diabetes Health Indicators](https://doi.org/10.24432/C53919)
 
