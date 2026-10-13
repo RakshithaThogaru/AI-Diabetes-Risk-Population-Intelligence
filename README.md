@@ -54,6 +54,11 @@ These results reflect the current model evaluation. The model is for educational
 
 ### Tableau Dashboard
 
+-[Tableau Dashboard 1](outputs/dashboards/tableau/Screenshot%20(112).png)
+
+-[Tableau Dashboard 2](outputs/dashboards/tableau/Screenshot%20(113).png)
+
+
 ## Repository Structure
 ```text
 AI-Diabetes-Risk-Population-Intelligence/
